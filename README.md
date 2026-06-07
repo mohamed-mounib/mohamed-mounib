@@ -18,9 +18,9 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-mounib&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-mounib&show_icons=true&theme=radical&cache_seconds=1800" alt="stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-mounib&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mounib&theme=radical" alt="streak"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
