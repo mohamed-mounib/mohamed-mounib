@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abed Mohamed Mounib</h1>
-<h3 align="center">A passionate frontend from Algeria | Computer Security student</h3>
+<h3 align="center">Computer Security student</h3>
 
 <p align="center">
   <a href="https://lumisac.vercel.app" target="_blank">
